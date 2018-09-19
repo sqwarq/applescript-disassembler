@@ -1,3 +1,7 @@
+# FORK
+Original by Jinmo
+https://github.com/Jinmo/applescript-disassembler/blob/master/README.md
+
 # AppleScript disassembler
 
 Run-only applescript reversing. This is disassembler for that.
